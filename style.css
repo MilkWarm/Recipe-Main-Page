@@ -22,6 +22,8 @@ p{
 .image-text{
     width: 30%;
     float:right;
+    display: grid;
+    place-items: center;
 }
 @media screen and (max-width:1000px){
     .container{
